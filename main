@@ -2,5 +2,6 @@ public class main{
   public static void main(String[] args) {
     String f = new String();
     System.out.println("asu");
+    f.equals("Asu");
   }
 }
