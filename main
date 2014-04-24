@@ -1,7 +1,7 @@
 public class main{
   public static void main(String[] args) {
     String f = new String();
-    System.out.println("asu");
-    f.equals("Asu");
+    System.out.println("febri asu");
+    f.equals("febri Asu");
   }
 }
